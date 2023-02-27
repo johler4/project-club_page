@@ -113,6 +113,7 @@ main .container {
     display: flex;
     contain: content;
     border-bottom: 1px solid black;
+    scroll-margin-top: 50px;
 }
 
 main .photo {
@@ -231,3 +232,20 @@ main #who-are-we .left h2 {
 
 /* -- FOOTER -- */
 
+footer {
+    padding: 12px;
+    min-height: 100px;
+    background-color: #000;
+    color: #FFF;
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    row-gap: 5px;
+    font-family: 'Red Hat Display';
+    font-weight: 400;
+}
+
+footer p {
+    font-size: 1.1rem;
+    text-align: center;
+    margin: auto 0;
+}
