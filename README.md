@@ -1,6 +1,6 @@
 # project-club_page
 start date: 2/24/2023
-finish date: 
+finish date: 2/27/2023
 
 Project Goals:
 In this project, you’ll be building your own club group page that will dynamically respond as you adjust the size of your screen!
